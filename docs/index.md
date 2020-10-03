@@ -23,3 +23,5 @@ X-Oncor-API-Token: ******************************************
 [Полный перечень методов API](categories.md)
 
 [Базовые сценарии](scripts/index.md)
+
+[Руководство](ONKOR.Rukovodstvo_polzovatelja_v19.pdf)
